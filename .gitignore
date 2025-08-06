@@ -1,0 +1,87 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+.env
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Sensitive files
+.env
+config_local.json
+credentials.json
+*.key
+*.pem
+
+# Generated files
+job_applications/
+CVs_Generated_*.zip
+test_output/
+*.html
+perfect_color_system_*.html
+compatibility_colors_preview_*.html
+full_compatibility_demo_*.html
+improved_compatibility_demo_*.html
+color_system_demo_*.html
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Documentation generated files
+*.pdf (except documentation)
+*.docx (generated CVs)
+
+# Email test files
+test_email_*.html
+email_preview_*.html
+
+# Nested repositories
+FinanzApp/
+FinanzAppInteractiva/
+FinanzAppSimple/
+finanzapp-backend/
+.expo/

@@ -1,0 +1,79 @@
+{
+  "personal_info": {
+    "name": "Jason Vladimir Cordova Rueda",
+    "email": "vladimir.jcr@gmail.com",
+    "phone": "+34 632 399 371",
+    "location": "Bilbao, España",
+    "linkedin": "https://www.linkedin.com/in/vladimir-córdova-97297a320",
+    "github": "https://github.com/JasonVCR"
+  },
+  "job_search": {
+    "keywords": [
+      "data analyst",
+      "business intelligence",
+      "big data",
+      "power bi",
+      "python",
+      "sql",
+      "tableau",
+      "data science",
+      "analytics",
+      "etl",
+      "data warehouse",
+      "machine learning",
+      "azure",
+      "databricks",
+      "spark",
+      "pandas",
+      "numpy",
+      "visualization",
+      "qlik sense",
+      "looker",
+      "snowflake",
+      "aws",
+      "google cloud",
+      "data engineer",
+      "bi developer",
+      "analyst",
+      "reporting",
+      "dashboard",
+      "kpi",
+      "metrics",
+      "statistics",
+      "forecasting",
+      "predictive analytics"
+    ],
+    "locations": [
+      "España",
+      "Madrid",
+      "Barcelona",
+      "Bilbao",
+      "Valencia",
+      "remote"
+    ],
+    "experience_level": [
+      "mid-level",
+      "senior",
+      "junior"
+    ],
+    "job_types": [
+      "full-time",
+      "contract",
+      "remote"
+    ]
+  },
+  "email_config": {
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "sender_email": "vladimir.jcr@gmail.com",
+    "sender_password": "tu_contraseña_de_aplicación",
+    "recipient_email": "vladimir.jcr@gmail.com"
+  },
+  "apis": {
+    "job_boards": [
+      "https://api.linkedin.com/v2/jobSearch",
+      "https://api.indeed.com/ads/apisearch",
+      "https://api.infojobs.net/api/9/offer"
+    ]
+  }
+}
